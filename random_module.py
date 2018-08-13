@@ -1,0 +1,6 @@
+import random
+
+print("The dice rolled values are >---->")
+print(random.randint(1,6))
+print(random.randint(1,6))
+print(random.randint(1,6))
